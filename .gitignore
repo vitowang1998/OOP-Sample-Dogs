@@ -1,0 +1,7 @@
+
+*.xcuserstate
+.DS_Store
+*.pbxproj
+OOP-Sample-Dogs.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+OOP-Sample-Dogs.xcodeproj/xcuserdata/HaoranWang.xcuserdatad/xcschemes/xcschememanagement.plist
+OOP-Sample-Dogs.xcodeproj/xcuserdata/HaoranWang.xcuserdatad/xcschemes/OOP-Sample-Dogs.xcscheme
